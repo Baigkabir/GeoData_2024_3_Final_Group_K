@@ -39,7 +39,7 @@ The georeferenced map was aligned based on visible landmarks such as roads and t
 ![Final Layout of Georeferenced Map](SUBTASK%202.1/SUBTASK_2.1%20(Final%20layout%20of%20georefrenced%20map%20and%20points%20of%20reference%20).png)
 
 
-### Judgment:
+### Judgement:
 The georeferencing process was highly accurate, as confirmed by the proper alignment of key landmarks like crossroads and forest trails. This ensures that further analyses of the burial mounds are based on reliable geospatial data.
 
 ---
@@ -73,7 +73,7 @@ The hillshade model reveals subtle variations in terrain elevation, highlighting
 #### Georeferenced Map with Burial Mounds Overlay on Hillshade Model:
 ![Georeferenced Map with Burial Mounds](SUBTASK%202.2/GEOREFERENCE%20MAP%20WITH%20BURIAL%20MOUNDS%20(SUBTASK%202.2%20MAP%203).png)
 
-### Judgment:
+### Judgement:
 The burial mounds appear prominently in the hillshade model, indicating that the mounds were properly georeferenced in Sub-Task 2.1. The comparison with the terrain demonstrates that these mounds correspond to real topographical features.
 
 ---
@@ -107,7 +107,7 @@ The elevation profiles show a typical height difference of around 1 to 2 meters 
 #### Elevation Profile Graph 3:
 ![Elevation Measurement 2](SUBTASK%202.3/ELEVATION%20MEASUREMENT%20GRAPH_3.png)
 
-### Judgment:
+### Judgement:
 The elevation differences measured between the mounds and their surrounding environment confirm that these structures were intentionally raised, likely for ceremonial or burial purposes. The mounds are distinct, man-made features in the landscape.
 
 ---
@@ -138,7 +138,7 @@ The rectangular structures identified in the hillshade model suggest possible ma
 #### Digitized Rectangular Structures in the ENE Direction:
 ![Digitized Rectangular Structures 1](SUBTASK%202.4/Digitization%20of%20rectangular%20structures%20in%20ENE%20direction%20(IMG%202).png)
 
-### Judgment:
+### Judgement:
 These rectangular structures are likely ancient remains of settlements or enclosures. Their size and alignment suggest purposeful human construction, rather than natural terrain formations.
 
 ---
