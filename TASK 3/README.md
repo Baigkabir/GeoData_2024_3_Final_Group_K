@@ -59,7 +59,7 @@ In the question, we were asked to observe the time-varying nitrate concentration
 The nitrate concentration data has been visualized as a GIF below, showing changes from the earliest measurements to the most recent ones.
 
 #### Nitrate Concentration Levels Animation:
-![Nitrate Concentration Animation](Map%20Animationn.gif)
+![Nitrate Concentration Animation](Map%20Animation.gif)
 
 ### Files:
 - `Geodata_Task_3.qgz`: The QGIS project file used to set up the temporal controller for nitrate concentration data.
